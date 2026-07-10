@@ -1,124 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YAYA%20SAFI&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Germany&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YAYA%20SAFI&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20/%20Backend%20Engineer%20%7C%20LLM%20Infrastructure%20%7C%20Berlin&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=700&lines=LLM+infrastructure+that+measurably+cuts+cost;Python+%7C+FastAPI+%7C+LangGraph+%7C+PostgreSQL+%7C+Redis;Multi-agent+systems+with+eval-gated+CI;MSc+Data+Science+in+Berlin"/>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Building+intelligent+apps+with+AI;Full-Stack+%7C+Next.js+%7C+Swift+%7C+Python;Multi-Agent+Pipelines+%26+LLMs;Turning+ideas+into+products+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
----
 
 ## About Me
 
-```typescript
-const yaya = {
-  name:       "Yaya Safi",
-  location:   "Germany 🇩🇪",
-  focus:      ["AI Engineering", "Full-Stack Dev", "Multi-Agent Systems"],
-  currentlyBuilding: [
-    "Multi-Agent Content Pipeline",
-    "Medical AI App",
-    "macOS Tiling Window Manager",
-    "iOS Voice Assistant",
-  ],
-  stack:      ["Next.js", "TypeScript", "Python", "Swift", "Supabase"],
-  learning:   ["LLM Orchestration", "Agent Architectures", "SwiftUI"],
-  funFact:    "I automate everything — including this README 😄",
-};
-```
+AI/Backend engineer focused on the production side of LLMs: cost-aware model routing, multi-agent workflows, evaluation harnesses and guardrails. Every project ships with real numbers.
 
----
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend & Frameworks**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-**Backend & Data**
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**AI & Tools**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaya-ali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=ffffff&ring_color=6E57F7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaya-ali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaya-ali&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E57F7&ring=6E57F7&fire=FF6B6B&currStreakLabel=6E57F7" width="60%"/>
-
-</div>
-
----
+- MSc Data Science & Business Intelligence, Berlin (BSc IT, IIUM Malaysia)
+- A year shipping AI features to real users: production GPT-4 translation pipeline for a 50-course EdTech library
+- Security background: 1st place IIUM CTF, Top 20% PicoCTF Global
+- Open to Werkstudent & junior AI/backend roles in Berlin, hybrid or remote
 
 ## Featured Projects
 
-<div align="center">
+| Project | Proof | Stack |
+| --- | --- | --- |
+| [RouteIQ, LLM Cost Router](https://github.com/yaya-ali/routeiq) | 10.2% cost saved, 0% quality drop, eval-gated CI | FastAPI, Redis, Prometheus, Grafana |
+| [Agentic RAG, EU AI Act](https://github.com/yaya-ali/agentic-rag) | Self-grading corrective retrieval, hybrid BM25 + dense | LangGraph, ChromaDB, FastAPI |
+| [Retention Engine](https://github.com/yaya-ali/retention-engine) | Churn risk at order time, 0.75 ROC-AUC, SHAP-explained | LightGBM, scikit-learn, Streamlit |
+| [Multi-Agent Content Pipeline](https://github.com/yaya-ali/multi-agent-content-pipeline) | 5-stage agent flow, auto re-routing on failed fact-checks | Next.js, LangGraph |
+| [Medical GPT Assistant](https://github.com/yaya-ali/medicalAI) | Self-hosted clinical triage LLM, used daily by 3 doctors | Python, Docker, H2OGPT |
+| [Terminal Dashboard](https://github.com/yaya-ali/terminal-dashboard) | Live TUI for repos, sessions and ports | Python, Textual |
 
-[![multi-agent-content-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=yaya-ali&repo=multi-agent-content-pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=ffffff&icon_color=6E57F7)](https://github.com/yaya-ali/multi-agent-content-pipeline)
-[![medicalAI](https://github-readme-stats.vercel.app/api/pin/?username=yaya-ali&repo=medicalAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=ffffff&icon_color=6E57F7)](https://github.com/yaya-ali/medicalAI)
+## Tech Stack
 
-[![chatgpt-clone](https://github-readme-stats.vercel.app/api/pin/?username=yaya-ali&repo=chatgpt-clone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=ffffff&icon_color=6E57F7)](https://github.com/yaya-ali/chatgpt-clone)
+**Backend:** Python, FastAPI, PostgreSQL, Redis, Docker, GitHub Actions  
+**AI/LLM:** LangGraph, LangChain, RAG, pgvector, OpenAI & Anthropic APIs, PyTorch, scikit-learn  
+**Frontend:** TypeScript, Next.js, React, Tailwind CSS
 
-</div>
+## GitHub Stats
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=yaya-ali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=ffffff&ring_color=6E57F7" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaya-ali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=ffffff" height="165"/>
 
-## Connect With Me
+## Connect
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaya-ali-hassane-51055020b)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yayasafihas@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yaya-ali)
-
-</div>
-
----
-
-<div align="center">
-
-**Visitor count**
-
-![Visitors](https://komarev.com/ghpvc/?username=yaya-ali&style=for-the-badge&color=6E57F7&label=PROFILE+VIEWS)
+<a href="https://www.linkedin.com/in/ali-hassane-yaya-51055020b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://yaya-ali.github.io"><img src="https://img.shields.io/badge/Portfolio-6E57F7?style=for-the-badge&logo=jekyll&logoColor=white"/></a> <a href="mailto:yayasafihas@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
